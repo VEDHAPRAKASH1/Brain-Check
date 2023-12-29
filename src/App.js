@@ -1,9 +1,9 @@
 import './App.css';
-
+import Routing from './Router/Routing';
 function App() {
   return (
     <div className="App">
-
+      <Routing />
     </div>
   );
 }
