@@ -25,30 +25,32 @@
     text-decoration: none;
 }
 
-h2 {
+.login-h2 {
     font-size: 30px;
 }
 
-input {
-    border-radius: 11px;
+.login-input {
     font-size: 15px;
-    height: 20px;
+    border-radius: 11px;
+    height: 24px;
     width: 300px;
-    padding: 5px 11px;
+    height: 25px;
+    padding: 5px 0px;
+    text-align: center;
 }
 
-input:focus {
+.login-input:focus {
     outline: none;
 }
 
-button {
+.login-button {
     height: 30px;
     width: 100px;
     border-radius: 11px;
     font-size: 15px;
 }
 
-button:hover {
+.login-button:hover {
     background-color: #00171f;
     color: #FFFFFF;
 }

@@ -25,30 +25,31 @@
     text-decoration: none;
 }
 
-h2 {
+.signUp-h2 {
     font-size: 30px;
 }
 
-input {
+.signUp-input {
     border-radius: 11px;
     font-size: 15px;
-    height: 20px;
     width: 300px;
-    padding: 5px 11px;
+    height: 25px;
+    padding: 5px 0px;
+    text-align: center;
 }
 
-input:focus {
+.signUp-input:focus {
     outline: none;
 }
 
-button {
+.signUp-button {
     height: 30px;
     width: 100px;
     border-radius: 11px;
     font-size: 15px;
 }
 
-button:hover {
+.signUp-button:hover {
     background-color: #00171f;
     color: #FFFFFF;
 }
