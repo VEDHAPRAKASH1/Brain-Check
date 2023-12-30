@@ -1,0 +1,38 @@
+.ques-content {
+    height: 100vh;
+    background-color: #00A7E1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ques-card {
+    min-height: 70%;
+    width: 50%;
+    background-color: #FFF;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 20px #003459;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.ques-card span {
+    font-weight: 1000;
+    font-size: large;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.ques-question {
+
+}
+
+.ques-options {
+    height: 30%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}

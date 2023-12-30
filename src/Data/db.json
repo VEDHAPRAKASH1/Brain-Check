@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "asd",
+      "email": "asd@gmail.com",
+      "password": "asd",
+      "id": 1
+    }
+  ],
+  "questions":[
+    {
+      "question":"How are they?",
+      "options":[1,2,3,4],
+      "correct":3,
+      "id": 1
+    }
+  ]
+}
